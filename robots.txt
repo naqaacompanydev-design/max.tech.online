@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://max.tech.online/sitemap.xml
